@@ -23,7 +23,7 @@ body
 }
 
 #homeFullScreen {
-    background-image: url('https://cdn.wallpaperdirect.com/asset/img/product/170544/tiled/galerie-plain-beige-wallpaper-tiled-170544.jpg');
+    background-image: url('../images/pool.jpg');
     overflow: hidden;
 }
 
@@ -37,7 +37,7 @@ body
 .header-text h1
 {
     font-size: 60px;
-    color: rgb(32, 22, 22);
+    color: rgb(244, 248, 248);
     text-transform: uppercase;
     font-family: 'Raleway';
 }
