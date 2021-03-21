@@ -23,7 +23,7 @@ body
 }
 
 #homeFullScreen {
-    background-image: url('https://www.publicdomainpictures.net/pictures/270000/nahled/swimming-pool-water-background-1532243683FXJ.jpg');
+    background-image: url('https://cdn.wallpaperdirect.com/asset/img/product/170544/tiled/galerie-plain-beige-wallpaper-tiled-170544.jpg');
     overflow: hidden;
 }
 
@@ -37,8 +37,9 @@ body
 .header-text h1
 {
     font-size: 60px;
-    color: #fff;
+    color: rgb(32, 22, 22);
     text-transform: uppercase;
+    font-family: 'Raleway';
 }
 
 .header-text .vertical-line
@@ -47,7 +48,7 @@ body
     background-color: #fff;
     width: 150px;
     margin: 0 auto;
-    margin-top: 15px;
+    margin-top: 100px;
     margin-bottom: 30px;
 }
 
